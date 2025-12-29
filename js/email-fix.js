@@ -4,6 +4,10 @@ document.addEventListener('DOMContentLoaded', function() {
     emailjs.init("3PunwnG65M1Q2yKCq"); // Замените на ваш реальный ключ
     
     const form = document.getElementById('inquiry-form');
+    
+    // Если формы нет на странице, прекращаем выполнение скрипта, чтобы не было ошибок
+    if (!form) return;
+
     const formStatus = document.getElementById('form-status');
     const submitButton = form.querySelector('button[type="submit"]');
     const buttonText = submitButton.querySelector('.button-text');

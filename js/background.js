@@ -19,7 +19,7 @@ function createAnimatedBackground() {
     canvas.style.left = '0';
     canvas.style.width = '100%';
     canvas.style.height = '100%';
-    canvas.style.zIndex = '-1';
+    canvas.style.zIndex = '0';
     canvas.style.pointerEvents = 'none';
     
     // Вставляем canvas в начало body
