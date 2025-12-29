@@ -1,0 +1,72 @@
+<html><head>
+    <title id="centertest30">ХостиЯ. Ошибка 404</title>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+    <style>
+        * { font-family: Open Sans; font-size: 16px; color:#333; }
+        .zag {
+        display: inline;
+        font-size: 278px;
+        font-weight: bold;
+        text-align: center;
+        color: #fff;
+        background: #97c2ef;
+        border-radius: 20px;
+        padding: 0px 28px;
+        border: 3px #4c85c1 solid;
+        }
+        hr.style-six {
+            border: 0;
+            height: 0;
+            border-top: 1px solid rgba(0, 0, 0, 0.1);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+        }
+        a {color:#03A9F4;}
+        .zag2 { font-size: 63px; margin-top:0px;   color:#455a64;  display: block;    font-weight: bold;
+            text-align: center;}
+        b { font-weight: bold; font-size: 19px;}
+        td { padding: 5;}
+        li { list-style: disc; margin:10px 0 0 19px; color:#ffc107; }
+        ul span {
+            font-size: 21px;
+            color:#455a64
+        }
+    
+        li span {
+            font-size: 16px;
+            color:#828282
+        }
+    
+        ul {
+            display:inline-block
+        }
+        .div {    text-align: left;
+            display: inline-block;}
+        .span1 { font-size: 15px;color:#828282;display: block;margin-left:19px; }
+        
+    </style>
+    </head>
+    <body topmargin="0" marginwidth="0" marginheight="0" leftmargin="0" bgcolor="#ffffff">
+    <center>
+    <table style="border: 0px solid #c4c4c4;border-radius: 46px;padding: 30px;" width="1200px">
+    <tbody>
+    <tr><td><center><button id='toggleLanguageButton'>English version</button> <span id='center1'>&#1061;&#1086;&#1089;&#1090;&#1080;&#1085;&#1075; &#1057;&#1072;&#1081;&#1090;&#1086;&#1074; <a href='https://hostia.net/' target='_top'>&#171;&#1061;&#1086;&#1089;&#1090;&#1080;&#1071;&#187;</a></span>
+    <br><br>
+    <br><div class="zag">404</div></center><br><div class="zag2" id="centertest31">Страница не найдена</div>
+    </td></tr>
+    <tr><td align="center">
+    <div class="div"><br>
+    <ul><span id="centertest32">Запрашиваемый URL не найден на этом сайте.</span><br>
+    <li><span id="centertest33">Возможно страница была удалена с сайта ; </span></li>
+    <li><span id="centertest34">Возможно была допущена ошибка при вводе URL адреса страницы ;
+    </span></li>
+    </ul>
+      </div>
+    <br>
+    <br>
+    <hr class="style-six">
+    </td></tr>
+    <tr><td><center><span id='center8'>&#1057;&#1083;&#1091;&#1078;&#1073;&#1072; <a href='https://hostia.net/sluzhba_podderzhky_hostinga.html'>&#1087;&#1086;&#1076;&#1076;&#1077;&#1088;&#1078;&#1082;&#1080;</a> / &#1061;&#1086;&#1089;&#1090;&#1080;&#1085;&#1075; &#1057;&#1072;&#1081;&#1090;&#1086;&#1074; <a href='https://hostia.net/' target='_top'>&#171;&#1061;&#1086;&#1089;&#1090;&#1080;&#1071;&#187;</a></span></center>
+    </td></tr>
+    </tbody></table>
+    </center><script type='text/javascript' src='https://hostia.net/js/hostia_lang_js.js'></script></body></html>
