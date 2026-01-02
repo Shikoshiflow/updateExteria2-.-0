@@ -1713,6 +1713,21 @@ body::before {
     letter-spacing: 2px;
 }
 
+.partners-description {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 40px;
+    line-height: 1.6;
+    color: var(--astral-text-secondary);
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+
+.partners-description:hover {
+    color: var(--astral-text);
+    transform: translateY(-5px);
+}
+
 /* Сетка с логотипами спонсоров */
 .sponsors-grid {
     display: flex;
